@@ -1,4 +1,4 @@
-# Hi, I'm Alisha — Creative Strategist & Lifestyle Systems Architect ✨
+# Hi, I'm Alisha, Creative Strategist & Lifestyle Systems Architect ✨
 
 I build elegant systems, digital experiences, and modern lifestyle brands rooted in creativity, structure, and strategy.  
 This space is where I explore new tools, organize my projects, and document my journey across operations, data, and digital product design.
@@ -26,13 +26,13 @@ This space is where I explore new tools, organize my projects, and document my j
 ### **🌐 My Current Brands**
 - **Londyn King** — Lifestyle & digital products  
 - **Love Alisha** — Creator brand & personal storytelling  
-- **LL** — Logistics-focused service brand  
+- **LL** — Logistics-focused service brand (in development)
 - **TEI** — Tech product (in development)
 
 ---
 
 ### **💛 About This Space**
-This GitHub is my digital workshop — a place where I build, explore, refine, and create.  
+This GitHub is my digital workshop. A place where I build, explore, refine, and create.  
 As my skills evolve, this profile will evolve with me.
 
 Elegant systems.  
