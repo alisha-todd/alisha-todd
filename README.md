@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Alisha — Creative Strategist & Lifestyle Systems Architect ✨
 
-<!--
-**alisha-todd/alisha-todd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build elegant systems, digital experiences, and modern lifestyle brands rooted in creativity, structure, and strategy.  
+This space is where I explore new tools, organize my projects, and document my journey across operations, data, and digital product design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🔧 What I Work On**
+- Creative strategy & digital product design  
+- Data & process optimization  
+- Operations & systems thinking  
+- Creator strategy & storytelling  
+- Building lifestyle-focused brands with intention  
+
+---
+
+### **📚 What I'm Learning**
+- Git & GitHub fundamentals  
+- Data analytics concepts  
+- SQL & Python (beginner level)  
+- Digital product architecture  
+- Portfolio building on GitHub  
+
+---
+
+### **🌐 My Current Brands**
+- **Londyn King** — Lifestyle & digital products  
+- **Love Alisha** — Creator brand & personal storytelling  
+- **LL** — Logistics-focused service brand  
+- **TEI** — Tech product (in development)
+
+---
+
+### **💛 About This Space**
+This GitHub is my digital workshop — a place where I build, explore, refine, and create.  
+As my skills evolve, this profile will evolve with me.
+
+Elegant systems.  
+Creative clarity.  
+Intentional growth.
+
+Thanks for stopping by ✨
