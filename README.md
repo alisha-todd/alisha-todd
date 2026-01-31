@@ -16,7 +16,7 @@ I design and optimize systems at the intersection of operations, data, and strat
 ### **📚 What I'm Learning**
 - Git & GitHub fundamentals  
 - Data analytics concepts  
-- SQL & Python (beginner level)  
+- SQL & Python (Foundational)  
 - Digital product architecture  
 - Portfolio building on GitHub  
 
