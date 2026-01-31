@@ -1,7 +1,6 @@
-# Hi, I'm Alisha, Creative Strategist & Lifestyle Systems Architect ✨
+# Hi, I'm Alisha, Operations Analyst | Process Improvement & Data Insights ✨
 
-I build elegant systems, digital experiences, and modern lifestyle brands rooted in creativity, structure, and strategy.  
-This space is where I explore new tools, organize my projects, and document my journey across operations, data, and digital product design.
+I design and optimize systems at the intersection of operations, data, and strategic thinking, with a background in creative strategy and lifestyle-focused brands.
 
 ---
 
