@@ -5,11 +5,11 @@ I design and optimize systems at the intersection of operations, data, and strat
 ---
 
 ### **🔧 What I Work On**
-- Creative strategy & digital product design  
-- Data & process optimization  
-- Operations & systems thinking  
-- Creator strategy & storytelling  
-- Building lifestyle-focused brands with intention  
+- Data-driven strategy & process optimization
+- Operations & systems analysis
+- Translating data into strategic, actionable insights
+- Market, pricing, and performance strategy
+- Designing scalable workflows for growing brands
 
 ---
 
